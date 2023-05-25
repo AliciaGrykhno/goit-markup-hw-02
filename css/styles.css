@@ -230,6 +230,30 @@
 
   color: #2e2f42;
 }
+.title-team {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #2e2f42;
+}
+.title-we {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+
+  color: #2e2f42;
+}
 .filtr-button {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -245,7 +269,8 @@
 .filtr-button:hover,
 .filtr-button:focus {
   color: #ffffff;
-  background: #404bbf;
+  background: #f4f4fd;
+  cursor: pointer;
 }
 .team {
   background-color: #f4f4fd;
