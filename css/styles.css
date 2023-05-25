@@ -52,7 +52,7 @@
 }
 .contact-mail:hover,
 .contact-mail:focus {
-  color: var(--accent-color);
+  color: #404bbf;
   text-decoration-line: underline;
 }
 .contact-mail {
@@ -66,7 +66,7 @@
 }
 .phone-number:hover,
 .phone-number:focus {
-  color: var(--accent-color);
+  color: #404bbf;
   text-decoration-line: underline;
 }
 .contact-phone-number {
@@ -92,7 +92,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.5x;
+  line-height: 1.5;
 
   letter-spacing: 0.02em;
 
@@ -162,7 +162,7 @@
 
   color: #434455;
 }
-.adress {
+.header-adress {
   font-style: normal;
 }
 /*====== /HEADER/ ======*/
@@ -175,6 +175,7 @@
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
+  text-align: center;
 
   letter-spacing: 0.02em;
 
@@ -265,11 +266,12 @@
   letter-spacing: 0.04em;
 
   color: #4d5ae5;
+  background-color: var(--description-color);
 }
 .filtr-button:hover,
 .filtr-button:focus {
   color: #ffffff;
-  background: #f4f4fd;
+  background: #404bbf;
   cursor: pointer;
 }
 .team {
@@ -285,4 +287,14 @@
   color: var(--description-color);
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.title-employe {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+
+  letter-spacing: 0.02em;
+
+  color: #2e2f42;
 }
