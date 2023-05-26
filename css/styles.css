@@ -2,6 +2,7 @@
   --primary-font: "Roboto", sans-serif;
   --secondary-font: "Raleway", sans-serif;
   --accent-color: #9747ff;
+  --accent-color-link: #404bbf;
   --background-colour: #ffffff;
   --background-footer: #2e2f42;
   --description-color: #f4f4fd;
@@ -131,15 +132,10 @@
 }
 .menu-link:hover,
 .menu-link:focus {
-  color: var(--accent-color);
+  color: var(--accent-color-link);
   text-decoration-line: underline;
 }
-.contact-mail:hover,
-.contact-mail:focus {
-  color: var(--accent-color);
-  color: #404bbf;
-  text-decoration-line: underline;
-}
+
 .contact-mail {
   font-size: 16px;
   line-height: 1.5;
@@ -148,20 +144,13 @@
 
   color: #434455;
 }
-.contact-phone-number:hover,
-.contact-phone-number:focus {
-  color: var(--accent-color);
+
+.contact-mail:hover,
+.contact-mail:focus {
   color: #404bbf;
-  text-decoration-line: underline;
+  text-decoration-line: none;
 }
-.contact-phone-number {
-  font-size: 16px;
-  line-height: 1.5;
 
-  letter-spacing: 0.02em;
-
-  color: #434455;
-}
 .header-adress {
   font-style: normal;
 }
