@@ -80,7 +80,6 @@
   color: #434455;
 }
 .title {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -90,8 +89,6 @@
   color: #2e2f42;
 }
 .description {
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
 
@@ -121,7 +118,6 @@
   color: #f4f4fd;
 }
 .menu-link {
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -189,7 +185,6 @@
 }
 /*====== /HERO/ ======*/
 .title {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -199,8 +194,6 @@
   color: #2e2f42;
 }
 .description {
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5x;
 
@@ -209,7 +202,6 @@
   color: #434455;
 }
 .title-title {
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.2;
@@ -221,7 +213,6 @@
   color: #2e2f42;
 }
 .title-team {
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -233,7 +224,6 @@
   color: #2e2f42;
 }
 .title-we {
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -278,7 +268,6 @@
   letter-spacing: 0.02em;
 }
 .title-employe {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
